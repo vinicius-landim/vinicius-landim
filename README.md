@@ -13,7 +13,7 @@ Computer Engineering student — ICT-UNIFESP
 
 ## About
 
-Computer Engineering student at the Federal University of São Paulo (UNIFESP), interested in digital hardware, embedded software, and artificial intelligence.
+Computer Engineering student at the Federal University of São Paulo (UNIFESP), interested in digital hardware, embedded systems, and artificial intelligence.
 
 <br>
 
