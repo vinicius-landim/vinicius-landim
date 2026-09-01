@@ -13,7 +13,7 @@ Computer Engineering student — ICT-UNIFESP
 
 ## About
 
-Computer Engineering student at the Federal University of São Paulo (UNIFESP), interested in digital hardware, embedded systems, and artificial intelligence.
+Computer Engineering student at the Federal University of São Paulo (UNIFESP), interested in hardware, embedded systems, and machine learning.
 
 <br>
 
@@ -21,7 +21,7 @@ Computer Engineering student at the Federal University of São Paulo (UNIFESP), 
 
 - **Embedded Systems** — hardware-oriented development, low-level C/C++ programming, and microcontroller architectures
 - **Computer Vision** — digital image processing and visual data analysis
-- **Artificial Intelligence** — modeling and training neural networks with PyTorch and scikit-learn
+- **Machine Learning** — modeling and training neural networks with PyTorch and scikit-learn
 
 <br>
 
